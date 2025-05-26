@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm SuperDev 👋🏾
 
-<!--
-**SuperDev-118821/superdev-118821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏾‍💻 About Me
 
-Here are some ideas to get you started:
+I’m a Software Engineer driven by a passion for building inclusive technologies, making open-source contribution more accessible, and fostering vibrant developer communities. My technical interests lie at the intersection of modern front-end development and developer experience, with a focus on React.js, the Jamstack architecture (JavaScript, APIs & Markup), and GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2020, I had the honor of being named an inaugural GitHub Star 🌟, a recognition awarded to developers who make significant contributions to the open-source ecosystem and actively uplift the tech community through mentorship, education, and collaboration.
+
+My enthusiasm for the React ecosystem inspired me to create React Robins, a supportive community dedicated to empowering women and non-binary React developers through peer learning and shared growth. I believe in the power of technology as a force for social good and strive to create spaces and tools that lower barriers and invite participation.
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=SuperDev-118821)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
