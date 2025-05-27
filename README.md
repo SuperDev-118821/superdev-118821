@@ -24,6 +24,3 @@ My enthusiasm for the React ecosystem inspired me to create React Robins, a supp
 ![trophy](https://github-profile-trophy.vercel.app/?username=SuperDev-118821)
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
